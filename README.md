@@ -1,4 +1,4 @@
-### Hi There, 👋 My name is Patrick, i have 26 years old and i learning Front-end in SENAI on FORD company project, i have a little experience with HTML,CSS,JAVA and C# but i'm updatind my courses, because my objective is be a great developer of Front/Back-end. In future i wanna back for college to make upgrade on every thing what i do, to be creator and developer of new technology.
+### Hi There, 👋 My name is Patrick, I am 26 years old and i'm learning Front-end in SENAI on FORD company project, I have a little be of experience with HTML,CSS,JAVA and C#.Currently I'm updatind my courses, because my objective is be a better developer in the future. I want back for college to make upgrade on every thing what I do, to be creator and developer of new technology's.
 
 Found me on:
 https://www.linkedin.com/in/patrick-santos-ab1ab0275
